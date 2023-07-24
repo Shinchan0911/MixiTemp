@@ -1,0 +1,11 @@
+{
+  "contact": "ShinTHL09",
+  "templates": [
+    {
+      "name": "MixiTemp",
+      "sources": ["https://raw.githubusercontent.com/Shinchan0911/MixiTemp/main/MixiTemp.png"],
+      "x": 2374,
+      "y": 1442
+    }
+  ]
+}
